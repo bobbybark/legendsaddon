@@ -9,6 +9,17 @@ icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/gmd
 fanart="http://"
 description="George Michael"
 
+name="Glenn Frey"
+section="false"
+search="false"
+subid="ll2016-frey"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/frey.jpg"
+fanart="http://"
+description="Glenn Frey"
+
 name="Joey Feek (Joey and Rory)"
 section="false"
 search="false"
