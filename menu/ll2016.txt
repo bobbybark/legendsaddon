@@ -9,6 +9,17 @@ icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/gmd
 fanart="http://"
 description="George Michael"
 
+name="Leon Russell"
+section="false"
+search="false"
+subid="ll2016-leon"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/lrmix.jpg"
+fanart="http://"
+description="Leon Russell"
+
 name="Sharon Jones (and The Dap-Kings)"
 section="false"
 search="false"
