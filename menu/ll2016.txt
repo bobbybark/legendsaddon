@@ -42,6 +42,17 @@ icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/lcm
 fanart="http://"
 description="Leonard Cohen"
 
+name="Merle Haggard"
+section="false"
+search="false"
+subid="ll2016-haggard"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/haggard.jpg"
+fanart="http://"
+description="Merle Haggard"
+
 name="Prince"
 section="false"
 search="false"
