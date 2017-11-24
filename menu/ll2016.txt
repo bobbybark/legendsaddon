@@ -75,6 +75,17 @@ icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/hag
 fanart="http://"
 description="Merle Haggard"
 
+name="Paul Kantner"
+section="false"
+search="false"
+subid="ll2016-kantner"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/kantner.jpg"
+fanart="http://"
+description="Paul Kantner"
+
 name="Phife Dawg"
 section="false"
 search="false"
