@@ -53,6 +53,17 @@ icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/lcm
 fanart="http://"
 description="Leonard Cohen"
 
+name="Maurice White"
+section="false"
+search="false"
+subid="ll2016-mwhite"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/mwhite.jpg"
+fanart="http://"
+description="Maurice White"
+
 name="Merle Haggard"
 section="false"
 search="false"
