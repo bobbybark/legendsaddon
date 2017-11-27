@@ -20,6 +20,17 @@ icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/wei
 fanart="http://"
 description="Scott Weiland"
 
+name="Steve Mackay"
+section="false"
+search="false"
+subid="ll2015-mackay"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/muaddibttv/legendsaddon/master/icons/mackay.jpg"
+fanart="http://"
+description="Steve Mackay"
+
 name="Tommy Overstreet"
 section="false"
 search="false"
